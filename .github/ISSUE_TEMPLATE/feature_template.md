@@ -1,9 +1,6 @@
 ---
 name: Feature request
 about: Suggest a new feature or an improvement.
-title: "[FEATURE] "
-labels: enhancement, needs-triage
-assignees: ''
 ---
 
 # Purpose:

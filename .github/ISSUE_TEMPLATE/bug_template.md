@@ -1,9 +1,6 @@
 ---
 name: Bug report
 about: Report a bug so we can fix it.
-title: "[BUG] "
-labels: bug, needs-triage
-assignees: ''
 ---
 
 **Describe the bug**
