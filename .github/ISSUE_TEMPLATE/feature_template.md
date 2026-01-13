@@ -4,9 +4,6 @@ about: Suggest a new feature or an improvement.
 ---
 
 # Purpose:
-Describe the goal and why this feature matters.
-
-# User story
 As [who is the feature for?] I want [what action, what tool?] in order to [what do you want to achieve?]
 
 # Definition Of Done
@@ -17,8 +14,5 @@ Describe the test suite, acceptance criteria, and conditions that must be met fo
 - Documentation updated:
 
 # Specifications
-Provide detailed specifications, design links, and implementation notes. If you keep detailed specs in Notion (or another tool), include the canonical link here:
-- Notion / spec: <paste Notion link>
-- API / data model changes:
-- UI / UX notes and links to designs:
-- Dependencies and impacted areas:
+Provide the link to the Notion page for the corresponding PRD
+<paste Notion link>
